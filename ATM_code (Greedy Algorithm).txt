@@ -22,7 +22,7 @@ int main()
 	int temp;
 	
 	for(i=0;i<notes;i++)
-	{
+	{hdhdhdjej
 		for(j=i+1;j<notes;j++)
 		{
 			if(arr[i]>arr[j])
